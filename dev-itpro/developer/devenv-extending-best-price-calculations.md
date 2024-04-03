@@ -57,7 +57,7 @@ The Type field is an extensible Price Type enum that contains the following valu
 
 The values are part of the composite key in the Price Calculation Setup table. Sales and service lines use the Sale type, purchase lines use the Purchase type, and job or item journal lines use both for calculating price and cost. The Any value is the default value, and is used when a line contains both a price and a cost.
 
-### Product Type
+### Asset Type
 The **Product Type** field is an extensible **Price Asset Type** enum that contains the following values:
 
 * All (0)
